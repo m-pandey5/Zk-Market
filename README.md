@@ -59,3 +59,7 @@ Advantages:
 Targets users already interested in the relevant field (e.g., music enthusiasts for a music NFT).
 Creates a bridge between Web2 user bases and Web3 projects.
 Enhances the relevance and effectiveness of airdrops. 
+
+**Blogs**
+https://www.nascent.xyz/idea/cryptos-airtag-moment
+https://x.com/VitalikButerin/status/1828727585204842867?utm_source=tldrcrypto
