@@ -50,7 +50,7 @@ Builds a strong, motivated developer ecosystem around the protocol.
 
 
 
-* **Targeted Airdrops for Web2 Communities**
+* **Targeted Airdrops for Web2/web3 Communities**
 
 Utilize Zk-Market for precise, community-specific airdrops:
 Example: Airdrop tokens to the Spotify community for a music NFT project.
