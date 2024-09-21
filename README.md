@@ -54,7 +54,7 @@ Builds a strong, motivated developer ecosystem around the protocol.
 
 Utilize Zk-Market for precise, community-specific airdrops:
 Example: Airdrop tokens to the Spotify community for a music NFT project.
-Implementation: Use ZKtls to verify Spotify user data (e.g., listening history, playlist curation) without compromising privacy.
+Implementation: Use ZKtls to verify Spotify user data (e.g., listening history, playlist curation, verifying ceredential) without compromising privacy.
 Advantages:
 Targets users already interested in the relevant field (e.g., music enthusiasts for a music NFT).
 Creates a bridge between Web2 user bases and Web3 projects.
